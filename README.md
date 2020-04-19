@@ -5,7 +5,7 @@ A light, building focused modpack.
 
 This modpack was made with the vanilla feel in mind, building on the core gameplay and adding things that don't ruin the original flow of the game.
 
-Nothing OP that would take you out of the experience
+Nothing OP that would take you out of the experience.
 
  
 
